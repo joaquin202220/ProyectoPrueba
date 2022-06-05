@@ -150,6 +150,7 @@ footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding-left: 2rem;
 }
 .about-title {
   font-size: 2rem;
@@ -160,6 +161,7 @@ footer {
 .about-img {
   display: flex;
   align-items: center;
+  padding-right: 2rem;
 }
 .history-img {
   margin-top: 2rem;
