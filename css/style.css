@@ -91,6 +91,10 @@ nav {
   margin-bottom: 4rem;
 }
 
+.main-tittle {
+  text-align: center;
+}
+
 @media screen and (max-width: 768px) {
   .img-container {
     grid-template-columns: 1fr;
