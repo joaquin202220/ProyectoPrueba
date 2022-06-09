@@ -198,4 +198,12 @@ footer {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+.btn {
+  background-color: #066163;
+}
+@media screen and (max-width: 768px) {
+  .form {
+    grid-template-columns: 1fr;
+  }
+}
 /* End of contact page */
