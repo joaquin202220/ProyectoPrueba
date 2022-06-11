@@ -53,9 +53,22 @@ nav {
   justify-content: center;
   align-items: center;
 }
+.nav-tittle {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .nav-logo h1 {
   font-size: 1.5rem;
 }
+
+.img-nav {
+  width: 75px;
+  height: 75px;
+}
+
 .nav-links {
   background-color: #383838;
   height: 70px;
