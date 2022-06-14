@@ -215,3 +215,11 @@ footer {
   }
 }
 /* End of contact page */
+
+/* Market page */
+.card.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* End of market page */
